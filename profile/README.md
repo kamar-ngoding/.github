@@ -1,4 +1,4 @@
-[![Kamar Koding Logo](https://i.ibb.co.com/GpVfv0X/Kamar-Koding-Long-Version-Logo-Dark-Mode-V2.png "Kamar Koding Logo")]([https://i.ibb.co/4px8jPn/Kamar-Koding-Logo-Long-Version.png](https://i.ibb.co.com/GpVfv0X/Kamar-Koding-Long-Version-Logo-Dark-Mode-V2.png) "Kamar Koding Logo")
+[![Kamar Ngoding Logo](https://i.ibb.co.com/GpVfv0X/Kamar-Koding-Long-Version-Logo-Dark-Mode-V2.png "Kamar Ngoding Logo")]([https://i.ibb.co/4px8jPn/Kamar-Koding-Logo-Long-Version.png](https://i.ibb.co.com/GpVfv0X/Kamar-Koding-Long-Version-Logo-Dark-Mode-V2.png) "Kamar Ngoding Logo")
 
 ## Tentang Kamar Ngoding
 **Kamar Ngoding** adalah organisasi Open Source yang berbasis di **Banjarmasin, Kalimantan Selatan.** Organisasi ini didedikasikan untuk mengembangkan proyek-proyek Open Source di Indonesia.
